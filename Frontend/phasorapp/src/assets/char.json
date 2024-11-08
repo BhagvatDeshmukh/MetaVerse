@@ -1,0 +1,14 @@
+{ "columns":36,
+ "image":"gchar.png",
+ "imageheight":256,
+ "imagewidth":576,
+ "margin":0,
+ "name":"char",
+ "spacing":0,
+ "tilecount":288,
+ "tiledversion":"1.11.0",
+ "tileheight":32,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
